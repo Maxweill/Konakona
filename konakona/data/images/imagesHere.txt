@@ -1,0 +1,2 @@
+%Y%m%d-%H%M%S%f.jpg
+Yeas, Month, Day - Hour, Minute, Second, Millisecond (if using multi)
