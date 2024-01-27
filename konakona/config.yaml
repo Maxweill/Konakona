@@ -1,0 +1,28 @@
+twitter:
+    consumerKey:    ''
+    consumerSecret: ''
+    token:          ''
+    tokenSecret:    ''
+
+directory:          ''
+altVidDirectory:	''
+fileEnding:         '.mp4'
+
+save:               yes
+saveDirectory:
+    images:         ''
+    clips:          ''
+
+screenshot:
+    imageCount:     4
+    secondsApart:   2
+
+clip:
+    clipCount:      5
+    secondsApart:   0
+    clipLength:     5
+    forceSubTrack:   0
+
+chance:
+    clip:           1
+    subtitleChance: 1

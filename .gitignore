@@ -1,0 +1,9 @@
+/venv
+/konakona/konakona_old.py
+/konakona/out_*
+/.idea/.gitignore
+/.idea/Konakona.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml

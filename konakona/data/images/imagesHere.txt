@@ -1,0 +1,2 @@
+%Y-%m-%d %H:%M:%S:%f
+Year-Month-Day Hour:Minute:Second:Millisecond
